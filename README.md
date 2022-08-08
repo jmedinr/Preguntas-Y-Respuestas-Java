@@ -8,7 +8,7 @@
 - JAR File: https://es.osdn.net/projects/sfnet_id2d/downloads/jdbc%20drivers/mysql-connector-java-5.1.15-bin.jar/
 
 ### Running
-- You have to clone this repository: https://github.com/jmedinr/Challenge.git
+- You have to clone this repository: https://github.com/jmedinr/Preguntas-Y-Respuestas-Java.git
 - Open the project on Netbeans in the latest version, the directory is PeguntasRespuestas.
 - Import JAR File in Netbeans
 - Run App
